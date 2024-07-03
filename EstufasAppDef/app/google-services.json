@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "941208961721",
+    "firebase_url": "https://projeto-interdisciplinar-9-default-rtdb.firebaseio.com",
+    "project_id": "projeto-interdisciplinar-9",
+    "storage_bucket": "projeto-interdisciplinar-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941208961721:android:48c57a8c4ead40ec655168",
+        "android_client_info": {
+          "package_name": "br.com.estufasappdef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5ddl9mqeLmqlAV2KOoORdmTyvivfQmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
